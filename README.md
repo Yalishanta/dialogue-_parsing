@@ -1,3 +1,3 @@
-# dialogue-_parsing
+# dialogue_parsing
 В данном репозитории представлен файел Jupyter Notebook, в котором находится выполненное тестовое задание. 
 
